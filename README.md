@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikolay Georgiev
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning HTML,CSS,JS,React.
+- 🌱 I’m currently learning HTML, CSS, JS, React.
 - 📫 How to reach me => n.g.georgiev89@gmail.com
 
 <!---
